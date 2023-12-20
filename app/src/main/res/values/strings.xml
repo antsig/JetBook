@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JetBook</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="about_page">About</string>
+    <string name="required_point">Rp %d.000</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %d.000</string>
+    <string name="total_order">Total pesanan : Rp %d.000</string>
+    <string name="back">Back</string>
+    <string name="dicoding_reward">Dicoding Reward</string>
+    <string name="share_message">Hey, I have ordered %1$d Book at JetBook. Do you want too?</string>
+    <string name="name">Antonius Sigid Priharsanto</string>
+    <string name="email">underfighterkh@gmail.com</string>
+    <string name="ig">anthonysigid</string>
+    <string name="github">antsig</string>
+    <string name="linkedin">underfighter</string>
+    <string name="search">Search Your Book Here!</string>
+</resources>
